@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# Shortcuts
+alias jp="jupyter notebook"
+alias g="git"
+alias gpom="git push origin master"
+
+
+# Delete `.DS_Store` files
+alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
+
